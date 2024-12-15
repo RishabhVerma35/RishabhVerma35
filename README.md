@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm a Full Stack Developer who loves building cool stuff..<br>Solved 400+ problems on LeetCode.<br>I’ve been practicing AWS and React for over 2 years now, and I really enjoy creating things with them!
+Hi! I'm a Full Stack Developer who loves building cool stuff..<br>Solved 200+ problems on LeetCode.<br>I’ve been practicing Web Development and Aws for over 1 years now, and I really enjoy creating things with them!
 
 
 ## 🌐 Socials:
